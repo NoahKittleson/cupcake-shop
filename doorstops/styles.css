@@ -1,0 +1,20 @@
+.SectionOne {
+  color: red;
+}
+
+.SectionTwo {
+ color: blue;
+}
+
+.blinking {
+  font-size: 30px;
+  animation: blinker .1s linear infinite;
+}
+
+@keyframes blinker {
+  90% { opacity: 0.0; }
+}
+
+html {
+  background-color: silver;
+}
