@@ -1,0 +1,32 @@
+html {
+  background-color: #0de4f6
+}
+
+body {
+  background-color: #c2d6df
+}
+
+.image {
+  width: 20%;
+  height: 20%;
+}
+
+.flashy {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.best {
+  color: #9f0303;
+  font-weight: bold;
+}
+
+.cupcake {
+  width: 20%;
+  height: 20%;
+}
+
+.email {
+  font-size: 200%;
+  font-weight: bolder;
+}
